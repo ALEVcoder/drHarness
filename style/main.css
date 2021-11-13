@@ -1,0 +1,290 @@
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+
+html, body{
+    overflow-x: hidden;
+}
+
+.nav .container{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding-top: 1rem;
+}
+.items
+{
+    display: flex;
+    justify-content: space-between;
+}
+.items li{
+    list-style: none;
+    padding: 1.3rem;
+    text-transform: uppercase;
+    color: #000;
+}
+.items li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.info{
+    background-image: url(../images/Layer\ 5951.png);
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.info .container{
+    text-align: center;
+}
+
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+
+.pone{
+    color: white;
+    font-size: 34px;
+    font-weight: 100;
+    padding-top: 4rem;
+}
+.bysite{
+    color: white;
+    font-size: 82px;
+}
+.myhr{
+    width: 35%;
+    background-color: #fff;
+    height: 5px;
+    margin: 0 0 0 26rem;
+}
+.ptwo{
+    color: white;
+    font-size: 24px;
+    padding-top: 4rem;
+}
+.pthere{
+    color: white;
+    font-size: 36px;
+}
+.btns button{
+    margin-top: 2rem;
+    font-size: 16px;
+    background: none;
+    padding: 1.1rem 1.4rem;
+    outline: none;
+    border: 2px solid white;
+    color: #fff;
+}
+.btns button:hover{
+    background-color: white;
+    color: #000;
+}
+
+.hone{
+    font-size: 36px;
+    color: #000;
+}
+.myhrtwo{
+    width: 6%;
+    background-color: #000;
+    height: 5px;
+    margin: 1rem 0 1rem 38rem;
+}
+.ppone{
+    font-size: 16px;
+}
+.bgg{
+    background-image: url(../images/bg.png);
+}
+
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+
+
+.gallery{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.th{
+    font-size: 36px;
+    text-align: center;
+}
+.shadow{
+    padding: 2rem;
+    box-shadow: 1px 2px 15px 5px rgba(0,0,0,0.67);
+    background-color: #fff;
+}
+.k-header{
+    display: flex;
+    justify-content: center;
+}
+.category-title{
+    flex: 0 0 calc(16.6667% - 10px);
+    display: inline-block;
+    background: #ba0152;
+    padding: 12px;
+    color: #fff;
+    margin: 5px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+.k-header .none{
+    background: none;
+    border: 2px solid #ba0152;
+    color: #000;
+}
+.k-header ul li{
+    list-style: none;
+    padding: 0 10px;
+    text-transform: uppercase;
+}
+.ram{
+    margin-bottom: 4rem;
+}
+.ram img{
+    width: 100%;
+}
+.ram h4{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 0.5rem;
+}
+.size {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.size p{
+    font-weight: 600;
+    margin: 0 2rem 0 0;
+}
+.bgcolors{
+    display: flex;
+    justify-content: center;
+}
+.bgcolors .red{
+    width: 1.7rem;
+    height: 1.7rem;
+    border-radius: 50%;
+    background: red;
+    margin: 0.5rem;
+}
+.bgcolors .black{
+    width: 1.7rem;
+    height: 1.7rem;
+    border-radius: 50%;
+    background: black;
+    margin: 0.5rem;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+}
+.price .o{
+    font-size: 24px;
+    opacity: 0.7;
+    margin: 0.5rem;
+
+}
+.price .t{
+    margin: 0.5rem;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ba0152;
+}
+.ram button{
+    width: 100%;
+    outline: none;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 2rem 3rem;
+    background: #6966e7;
+    border-radius: 5px;
+    border: none;
+}
+.ram button:hover{
+    opacity: 0.8;
+}
+
+.mainn{
+    display: inline-block;
+}
+.modalimg{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+.my{
+    margin: 0.3rem 1rem;
+    width: 90%;
+    outline: none !important;
+}
+
+.footerr{
+    background-color: #f7f2f4;
+    padding-bottom: 5rem;
+}
+.ss{
+    margin: 3rem 0 0 0rem;
+
+}
+.h1one{
+    font-size: 60px;
+    margin-top: 2rem;
+    padding-top: 5rem;
+}
+.alone{
+    margin: 0 0 2rem 5rem;
+}
+.fp{
+    color: #000;
+    font-weight: 600;
+    text-align: center;
+
+}
+.imgl{
+    margin-left: -6rem;
+}
+.by{
+    text-align: center;
+    margin-top: 2rem;
+}
+.by a{
+    text-decoration: none;
+    color: #ba0152;
+}
+.by a:hover{
+    color: black;
+}
+
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */

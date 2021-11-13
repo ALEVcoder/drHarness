@@ -1,0 +1,62 @@
+
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+@media only screen and (max-width: 640px) {
+    html, body{
+        overflow-x: hidden;
+    }
+    .logo{
+        display: flex;
+        justify-content: center;
+        padding: 0 0 2rem 8rem;
+    }
+    .menu{
+        overflow: hidden;
+        display: none;
+    }
+    .info{
+        background-position: -24rem 0rem;
+    }
+    .pone{
+        padding-top: 0rem;
+    }
+    .ptwo{
+        padding-top: 0rem;
+    }
+    .btns button{
+        margin: 0.2rem 5rem;
+        display: inline-block;
+    }
+    .k-header{
+        padding-left: 7.5rem;
+    }
+    
+    .ram img{
+        width: 80%;
+        padding-left: 9rem;
+    }
+    .ram button{
+        width: 70%;
+        margin-left: 6rem;
+        padding: 1rem 1rem;
+    }
+    .h1one{
+        text-align: center;
+        font-size: 40px;
+    }
+    .alone{
+        margin: 0 0 2rem 11.5rem;
+    }
+}
+
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
+/* Sayt Alevcoder tomonidan yozildi */
